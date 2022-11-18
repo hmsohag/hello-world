@@ -22,7 +22,7 @@
       </div>
       <div class="col-75">
         <select id="country" name="country">
-          <option value="select">SELECT ONE</option>
+          <option value="select">Select One</option>
 	  <option value="bangladesh">Bangladesh</option>
           <option value="canada">Canada</option>
           <option value="usa">USA</option>
