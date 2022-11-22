@@ -3,7 +3,7 @@
     <title>Contact Form</title>
 </head>
 <body>
-    <h3>Contact us</h3>
+    <h3>Contact with us</h3>
     <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
             <label for="Name" class="fcf-label">Your name</label>
             <div class="fcf-input-group">
